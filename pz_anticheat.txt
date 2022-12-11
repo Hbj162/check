@@ -1,1 +1,1 @@
-{"version":"1.2", "notes":"SQL Automatica y pequeños cambios de infraestructura"}
+{"version":"1.3", "notes":"SQL Automatica y pequeños cambios de infraestructura"}
