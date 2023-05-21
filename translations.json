@@ -13,7 +13,12 @@
     "Admin": "This is a admin",
     "rejectionMsgVPN": "You have a VPN. Please disabled",
     "rejectionMsgNameFilter": "Your name contains non alphanumeric (a-Z, 0-9) characters. Please change your name.",
-    "No_IDBAN": "You don`t provide a IDBAN example of IDBAN : as_anticheat-24212-5834829"
+    "No_IDBAN": "You don`t provide a IDBAN example of IDBAN : as_anticheat-24212-5834829",
+    "Self_Options": "Self Options",
+     "Player_Options": "Player Options",
+     "Vehicle_Options": "Vehicle Options",
+     "Dev_Options": "Dev Options"
+   
      
   },
   "es": {
