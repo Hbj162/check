@@ -22,7 +22,23 @@
      
   },
   "es": {
-    "welcome_message": "¡Bienvenido!",
-    "goodbye_message": "¡Adiós!"
+    "Banned": "Has sido baneado por hacks. Ban ID: ",
+    "Title_webhook_kicked": "Kickeado",
+    "Title_webhook_ban": "Baneado",
+    "Regenerate_ban.json": "Tu bans.json esta perdido, Regenerando",
+    "Corrupted_ban.json": "Tu bans.json es corrupto, Regenerando",
+    "All_Options_Activated": "Tienes todas las opciones activadas, elige solo una opción",
+    "No_Options_Activated": "No tienes ninguna opción activada, por favor activa alguna opción",
+    "Invalid_Usage": "Uso incorrecto. Prueba de otra forma",
+    "Doesnt_Exists": "Este usuario no existe. Prueba con otra id",
+    "Error_Use": "Debes agregar algo",
+    "Admin": "Este es un administrador",
+    "rejectionMsgVPN": "Tienes una VPN. Por favor deshabilitalo",
+    "rejectionMsgNameFilter": "Tu nombre contiene no alphanumericas (a-Z, 0-9) characters. Por favor, cambia tu nombre.",
+    "No_IDBAN": "No has colocado ningun IDBAN. Ejemplo IDBAN : as_anticheat-24212-5834829",
+    "Self_Options": "Opciones Propias",
+     "Player_Options": "Opciones Players",
+     "Vehicle_Options": "Opciones Vehiculos",
+     "Dev_Options": "Opciones Dev"
   }
 }
