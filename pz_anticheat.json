@@ -1,0 +1,10 @@
+{
+  "en": {
+    "welcome_message": "Welcome!",
+    "goodbye_message": "Goodbye!"
+  },
+  "es": {
+    "welcome_message": "¡Bienvenido!",
+    "goodbye_message": "¡Adiós!"
+  }
+}
