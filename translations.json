@@ -71,8 +71,8 @@
      "Invisible_Description": "Volverte invisible",
      "GodMode": "Modo dios",
      "GodMode_Description": "Volverte inmortal",
-     "Seeid": "Ver los IDs",
-     "Seeid_Description": "Ver el ID",
+     "Seeid": "Ver las IDs",
+     "Seeid_Description": "Ver las ID",
      "Revive": "Revivir",
      "Revive_Description": "Reanimarse",
     "Goto": "Ir a",
@@ -82,11 +82,11 @@
     "Freeze": "Congelar",
     "Freeze_Description": "Congelar/descongelar a un usuario",
     "Revive_Description2": "Revivir a un usuario",
-    "Ban": "Expulsar a un jugador",
-    "Ban_Description": "Ban a Player",
+    "Ban": "Banear al Jugador",
+    "Ban_Description": "Banear al jugador",
     "Fix": "Congelar",
     "Fix_Description": "Reparar el vehículo",
-    "Tuning": "Ajuste completo",
+    "Tuning": "Full tuning",
     "Tuning_Description": "Hacer full tuning del vehículo"
   }
 }
