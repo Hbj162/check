@@ -41,7 +41,8 @@
     "Fix": "Freeze",
     "Fix_Description": "Repair the vehicle",
     "Tuning": "Full Tuning",
-    "Tuning_Description": "Make Full Tuning the Vehicle"
+    "Tuning_Description": "Make Full Tuning the Vehicle",
+    "Copy": "Copy"
    
      
   },
@@ -87,6 +88,7 @@
     "Fix": "Congelar",
     "Fix_Description": "Reparar el vehículo",
     "Tuning": "Full tuning",
-    "Tuning_Description": "Hacer full tuning del vehículo"
+    "Tuning_Description": "Hacer full tuning del vehículo",
+      "Copy": "Copiar"
   }
 }
