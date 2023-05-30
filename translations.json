@@ -42,8 +42,25 @@
     "Fix_Description": "Repair the vehicle",
     "Tuning": "Full Tuning",
     "Tuning_Description": "Make Full Tuning the Vehicle",
-    "Copy": "Copy"
-   
+    "Copy": "Copy",
+    "Activate_Godmode": "GodMode activated",
+    "Desactivate_Godmode": "GodMode desactivated",
+    "Activate_Invisible": "Invisible activated",
+    "Desactivate_Invisible": "Invisible desactivated",
+    "Activate_Noclip": "Noclip activated",
+    "Desactivate_Noclip": "Noclip desactivated",
+    "Fast_mode": "Fast Mode",
+    "Go_Down": "Go Down",
+    "Go_Up": "Go Up",
+    "Activate_SeeId": "See Id Activated",
+    "Desactivate_SeeId": "See Id Desactivated",
+    "Person_No_Vehicle": "You are not in a vehicle",
+    "Vehicle_Is_Tuning": "This vehicle is already full Tuning",
+    "No_Class": "Unsupported Class",
+    "Player_Banned": "Player is banned",
+    "Kick": "Kick",
+    "Kick_Description": "Kick a user",
+    "Player_Kicked": "Player Kicked"
      
   },
   "es": {
@@ -89,6 +106,24 @@
     "Fix_Description": "Reparar el vehículo",
     "Tuning": "Full tuning",
     "Tuning_Description": "Hacer full tuning del vehículo",
-      "Copy": "Copiar"
+     "Copy": "Copiar",
+     "Activate_Godmode": "GodMode activated",
+    "Desactivate_Godmode": "GodMode desactivated",
+    "Activate_Invisible": "Invisible activated",
+    "Desactivate_Invisible": "Invisible desactivated",
+    "Activate_Noclip": "Noclip activated",
+    "Desactivate_Noclip": "Noclip desactivated",
+    "Fast_mode": "Fast Mode",
+    "Go_Down": "Go Down",
+    "Go_Up": "Go Up",
+    "Activate_SeeId": "See Id Activated",
+    "Desactivate_SeeId": "See Id Desactivated",
+    "Person_No_Vehicle": "You are not in a vehicle",
+    "Vehicle_Is_Tuning": "This vehicle is already full Tuning",
+    "No_Class": "Unsupported Class",
+    "Player_Banned": "Player is banned",
+    "Kick": "Kick",
+    "Kick_Description": "Kick a user",
+    "Player_Kicked": "Player Kicked"
   }
 }
