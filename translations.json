@@ -60,7 +60,9 @@
     "Player_Banned": "Player is banned",
     "Kick": "Kick",
     "Kick_Description": "Kick a user",
-    "Player_Kicked": "Player Kicked"
+    "Give_Clothes": "Skin Menu",
+    "Give_Clothes_Description": "Give a Player a skin Menu"
+   
      
   },
   "es": {
@@ -124,6 +126,8 @@
     "Player_Banned": "Player is banned",
     "Kick": "Kick",
     "Kick_Description": "Kick a user",
-    "Player_Kicked": "Player Kicked"
+    "Player_Kicked": "Player Kicked",
+    "Give_Clothes": "Skin Menu",
+    "Give_Clothes_Description": "Dar skin menu"
   }
 }
