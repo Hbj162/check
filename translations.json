@@ -60,7 +60,9 @@
     "Player_Banned": "Player is banned",
     "Kick": "Kick",
     "Kick_Description": "Kick a user",
-    "Player_Kicked": "Player Kicked"
+    "Give_Clothes": "Skin Menu",
+    "Give_Clothes_Description": "Give a Player a skin Menu"
+   
      
   },
   "es": {
@@ -106,8 +108,8 @@
     "Fix_Description": "Reparar el vehículo",
     "Tuning": "Full tuning",
     "Tuning_Description": "Hacer full tuning del vehículo",
-     "Copy": "Copiar",
-     "Activate_Godmode": "Modo Dios activado",
+    "Copy": "Copiar",
+    "Activate_Godmode": "Modo Dios activado",
     "Desactivate_Godmode": "Modo Dios desactivado",
     "Activate_Invisible": "Invisible activado",
     "Desactivate_Invisible": "Invisible desactivado",
@@ -125,5 +127,8 @@
     "Kick": "Expulsar",
     "Kick_Description": "Expulsar al usuario",
     "Player_Kicked": "Usuario expulsado"
+    "Give_Clothes": "Skin Menu",
+    "Give_Clothes_Description": "Dar skin menu"
+
   }
 }
